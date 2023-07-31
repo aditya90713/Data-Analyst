@@ -3,4 +3,5 @@ numpy
 seaborn
 plotly
 ggplot
+warnings
 -e .
